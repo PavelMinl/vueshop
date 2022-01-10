@@ -1,0 +1,44 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "Джинсовка",
+    "price": 3990,
+    "imgProduct": "./img/products/1.jpg",
+    "imgCart": "./img/cart/1.jpg"
+  },
+  {
+    "id_product": 2,
+    "product_name": "Платье",
+    "price": 5600,
+    "imgProduct": "./img/products/2.jpg",
+    "imgCart": "./img/cart/2.jpg"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Толстовка",
+    "price": 1490,
+    "imgProduct": "./img/products/3.jpg",
+    "imgCart": "./img/cart/3.jpg"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Кроссовки",
+    "price": 3700,
+    "imgProduct": "./img/products/4.png",
+    "imgCart": "./img/cart/4.png"
+  },
+  {
+    "id_product": 5,
+    "product_name": "Пиджак",
+    "price": 5900,
+    "imgProduct": "./img/products/5.jpg",
+    "imgCart": "./img/cart/5.jpg"
+  },
+  {
+    "id_product": 6,
+    "product_name": "Футболка",
+    "price": 990,
+    "imgProduct": "./img/products/6.png",
+    "imgCart": "./img/cart/6.png"
+  }
+]

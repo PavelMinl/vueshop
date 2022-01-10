@@ -1,0 +1,14 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 3,
+            "product_name": "Толстовка",
+            "price": 1490,
+            "imgProduct": "./img/products/3.jpg",
+            "imgCart": "./img/cart/3.jpg"
+        }
+    ]
+}
